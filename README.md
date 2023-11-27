@@ -7,3 +7,5 @@
 3. 【AEDA: An Easier Data Augmentation Technique for Text Classification】https://arxiv.org/abs/2108.13230
 4. 【知乎JayJay——标注样本少怎么办？「文本增强+半监督学习」总结（从PseudoLabel到UDA/FixMatch）】https://zhuanlan.zhihu.com/p/146777068
 5. 【知乎周星星——NLP系列之文本分类（一）：数据增强(EDA+对抗训练)/数据去噪/类别不平衡/半监督学习UDA/模型轻量化】https://zhuanlan.zhihu.com/p/339894411
+6. 【AugGPT: Leveraging ChatGPT for Text Data Augmentation】https://arxiv.org/abs/2302.13007
+7. 
