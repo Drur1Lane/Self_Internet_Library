@@ -15,3 +15,7 @@
 5. 【知乎周星星——NLP系列之文本分类（一）：数据增强(EDA+对抗训练)/数据去噪/类别不平衡/半监督学习UDA/模型轻量化】https://zhuanlan.zhihu.com/p/339894411
 6. 【AugGPT: Leveraging ChatGPT for Text Data Augmentation】https://arxiv.org/abs/2302.13007
 7. 
+
+# Causal Inference
+1. 【Introduction to Causal Inference from a Machine Learning Perspective】https://www.bradyneal.com/causal-inference-course
+2. 
