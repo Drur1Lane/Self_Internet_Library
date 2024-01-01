@@ -16,6 +16,6 @@
 6. 【AugGPT: Leveraging ChatGPT for Text Data Augmentation】https://arxiv.org/abs/2302.13007
 7. 
 
-# Causal Inference
+# 因果推断（Causal Inference）
 1. 【Introduction to Causal Inference from a Machine Learning Perspective】https://www.bradyneal.com/causal-inference-course
 2. 
