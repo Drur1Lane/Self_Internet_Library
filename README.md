@@ -6,6 +6,10 @@
 1. 【Congrui Yin：科研工具链】https://github.com/JerryYin777/Cr_Research_Toolchain
 2. 
 
+# LLM训练知识点 & 踩坑日记
+1. template：数据模板
+2. 
+
 # Natural Language Processing
 ## 文本增强（Text Data Augmentation）
 1. 【微信机器之心——文本增强技术在金融领域的应用实践】https://mp.weixin.qq.com/s/-F33VLhZAlCra3sjeRF50w
