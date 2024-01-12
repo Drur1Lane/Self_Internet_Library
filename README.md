@@ -8,7 +8,12 @@
 
 # LLM训练知识点 & 踩坑日记
 1. template：数据模板
-2. 
+## 深度学习炼丹法
+1. 【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks】https://oldpan.me/archives/how-to-use-tricks-to-train-network
+2. 【学习率选择：How Do You Find A Good Learning Rate】https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html
+3. 【学习率选择：Cyclical Learning Rates for Training Neural Networks】https://arxiv.org/abs/1506.01186
+4. 【Oldpan个人博客：警惕！损失Loss为Nan或者超级大的原因】https://oldpan.me/archives/careful-train-loss-nan-inf
+5. 
 
 # Natural Language Processing
 ## 文本增强（Text Data Augmentation）
