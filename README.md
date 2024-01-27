@@ -1,7 +1,11 @@
 # Self_Internet_Library
 希望自己能随时记得往这里填点东西。
 
-# Good Websites
+# B站
+1. 【一口气搞清避税天堂的资本游戏】https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2
+2. 
+
+# Websites
 1. 【CS自学指南】https://csdiy.wiki/
 2. 
 
