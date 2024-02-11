@@ -1,6 +1,32 @@
 # Self_Internet_Library
 希望自己能随时记得往这里填点东西。
 
+# 找工作
+|来源|时间|题目|链接|简介|
+|-|-|-|-|-|
+| 微信 | 2024-02-01 | 冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！ | <a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a> | 中国金融电子化集团简介 |
+| 微信 | 2024-01-10 | 扒一扒金融行业不同岗位的优劣势 | <a href="https://mp.weixin.qq.com/s/daILh9jkKmoBTtiQYCNL-Q">Link</a> | 投行、行研、PEVC、机构销售、体制内金融简析 |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+
+# 对博士生涯 & 世界的反思
+|来源|时间|题目|链接|简介|
+|-|-|-|-|-|
+| 微信 | 2024-01-25 | 一位北大博导对博士生教育的感受：只能描述、无能为力 | <a href="https://mp.weixin.qq.com/s/iTOTlSNXlLwOOX9K_t_XfQ">Link</a> | ①知识匮乏，论文深度不足；②导师太忙，被评价体系压的太功利；③公共知识分子、“万事通”太多，学术娱乐化；④电脑发达，论文不是从思考现实、而是从框架出发寻找材料 |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+|  |  |  | <a href="">Link</a> |  |
+
 # B站
 1. 【小Lin说——一口气搞清避税天堂的资本游戏】https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2
 2. 
