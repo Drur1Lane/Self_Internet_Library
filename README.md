@@ -1,6 +1,24 @@
 # Self_Internet_Library
 希望自己能随时记得往这里填点东西。
 
+# 一些有意思的
+<table>
+  <tr>
+    <th>来源</th>
+    <th>时间</th>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td rowspan="1">微信</td>
+    <td>2024-02-07</td>
+    <td>三分钟教你学会掼蛋</td>
+    <td><a href="https://mp.weixin.qq.com/s/WqRVkqxwiqf5EZksRvKZeQ">Link</a></td>
+    <td>掼蛋规则简介</td>
+  </tr>
+</table>
+
 # 找工作
 <table>
   <tr>
@@ -24,13 +42,6 @@
     <td>投行、行研、PEVC、机构销售、体制内金融简析</td>
   </tr>
 </table>
-
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
 
 # 对博士生涯 & 世界的反思
 |来源|时间|题目|链接|简介|
