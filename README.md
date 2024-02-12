@@ -19,6 +19,7 @@
   </tr>
 </table>
 
+
 # 找工作
 <table>
   <tr>
@@ -43,6 +44,7 @@
   </tr>
 </table>
 
+
 # 对博士生涯 & 世界的反思
 |来源|时间|题目|链接|简介|
 |-|-|-|-|-|
@@ -56,6 +58,13 @@
 |  |  |  | <a href="">Link</a> |  |
 |  |  |  | <a href="">Link</a> |  |
 |  |  |  | <a href="">Link</a> |  |
+
+
+# 科研指引
+|来源|时间|题目|链接|简介|
+|-|-|-|-|-|
+| 微信-经管世界 | 2023-10-15 | 实证分析三步走：数据、模型还有结果检验 | <a href="https://mp.weixin.qq.com/s/fdm8TSduGU_9m6zxQOQ6yg">Link</a> | 实证分析简要手册 |
+
 
 # B站
 1. 【小Lin说——一口气搞清避税天堂的资本游戏】https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2
