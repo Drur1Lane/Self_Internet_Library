@@ -42,6 +42,12 @@
     <td><a href="https://mp.weixin.qq.com/s/daILh9jkKmoBTtiQYCNL-Q">Link</a></td>
     <td>投行、行研、PEVC、机构销售、体制内金融简析</td>
   </tr>
+  <tr>
+    <td>2024-02-05</td>
+    <td>不愧商汤，一面巨深入。。</td>
+    <td><a href="https://mp.weixin.qq.com/s/fbC_-5EKOqSRaHbPQd1UeQ">Link</a></td>
+    <td>3个商汤AIGC一面面试题</td>
+  </tr>
 </table>
 
 
