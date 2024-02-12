@@ -1,6 +1,7 @@
 # Self_Internet_Library
 希望自己能随时记得往这里填点东西。
 
+
 # 一些有意思的
 <table>
   <tr>
@@ -19,33 +20,6 @@
   </tr>
 </table>
 
-# 大模型面试题
-<table>
-  <tr>
-    <th>时间</th>
-    <th>题目</th>
-    <th>链接</th>
-    <th>简介</th>
-  </tr>
-  <tr>
-    <td>2024-02-05</td>
-    <td>不愧商汤，一面巨深入。。</td>
-    <td><a href="https://mp.weixin.qq.com/s/fbC_-5EKOqSRaHbPQd1UeQ">Link</a></td>
-    <td>3个商汤AIGC一面面试题</td>
-  </tr>
-  <tr>
-    <td>2024-02-04</td>
-    <td>超全总结！大模型算法岗面试真题来了！</td>
-    <td><a href="https://mp.weixin.qq.com/s/deFAz5edfZ37KcxKPAaTfw">Link</a></td>
-    <td>题目集合</td>
-  </tr>
-  <tr>
-    <td>2024-02-04</td>
-    <td>面了 5 家知名企业的NLP算法岗(大模型方向)，被问麻了。。。。。</td>
-    <td><a href="https://mp.weixin.qq.com/s/tCkFJhj28T-kdV95IlT1_Q">Link</a></td>
-    <td>题目集合</td>
-  </tr>
-</table>
 
 # 找工作
 <table>
@@ -94,6 +68,13 @@
     <td><a href="https://mp.weixin.qq.com/s/FaGExSLmR-OFAzHYT9NorA">Link</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td rowspan="1">B站</td>
+    <td></td>
+    <td>一口气搞清避税天堂的资本游戏</td>
+    <td><a href="https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a></td>
+    <td></td>
+  </tr>
 </table>
 
 
@@ -105,9 +86,34 @@
 | Book |  | Introduction to Causal Inference from a Machine Learning Perspective | <a href="https://www.bradyneal.com/causal-inference-course">Link</a> |  |
 
 
-# B站
-1. 【小Lin说——一口气搞清避税天堂的资本游戏】https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2
-2. 
+# 大模型面试题
+<table>
+  <tr>
+    <th>时间</th>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>2024-02-05</td>
+    <td>不愧商汤，一面巨深入。。</td>
+    <td><a href="https://mp.weixin.qq.com/s/fbC_-5EKOqSRaHbPQd1UeQ">Link</a></td>
+    <td>3个商汤AIGC一面面试题</td>
+  </tr>
+  <tr>
+    <td>2024-02-04</td>
+    <td>超全总结！大模型算法岗面试真题来了！</td>
+    <td><a href="https://mp.weixin.qq.com/s/deFAz5edfZ37KcxKPAaTfw">Link</a></td>
+    <td>题目集合</td>
+  </tr>
+  <tr>
+    <td>2024-02-04</td>
+    <td>面了 5 家知名企业的NLP算法岗(大模型方向)，被问麻了。。。。。</td>
+    <td><a href="https://mp.weixin.qq.com/s/tCkFJhj28T-kdV95IlT1_Q">Link</a></td>
+    <td>题目集合</td>
+  </tr>
+</table>
+
 
 # Websites
 1. 【CS自学指南】https://csdiy.wiki/
@@ -119,11 +125,6 @@
 2. 
 
 
-# LLM训练知识点 & 踩坑日记
-1. template：数据模板
-2. 
-
-   
 # 深度学习炼丹法
 1. 【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks】https://oldpan.me/archives/how-to-use-tricks-to-train-network
 2. 【学习率选择：How Do You Find A Good Learning Rate】https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html
