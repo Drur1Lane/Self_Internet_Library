@@ -19,6 +19,33 @@
   </tr>
 </table>
 
+# 大模型面试题
+<table>
+  <tr>
+    <th>时间</th>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>2024-02-05</td>
+    <td>不愧商汤，一面巨深入。。</td>
+    <td><a href="https://mp.weixin.qq.com/s/fbC_-5EKOqSRaHbPQd1UeQ">Link</a></td>
+    <td>3个商汤AIGC一面面试题</td>
+  </tr>
+  <tr>
+    <td>2024-02-04</td>
+    <td>超全总结！大模型算法岗面试真题来了！</td>
+    <td><a href="https://mp.weixin.qq.com/s/deFAz5edfZ37KcxKPAaTfw">Link</a></td>
+    <td>题目集合</td>
+  </tr>
+  <tr>
+    <td>2024-02-04</td>
+    <td>面了 5 家知名企业的NLP算法岗(大模型方向)，被问麻了。。。。。</td>
+    <td><a href="https://mp.weixin.qq.com/s/tCkFJhj28T-kdV95IlT1_Q">Link</a></td>
+    <td>题目集合</td>
+  </tr>
+</table>
 
 # 找工作
 <table>
@@ -30,7 +57,7 @@
     <th>简介</th>
   </tr>
   <tr>
-    <td rowspan="4">微信</td>
+    <td rowspan="3">微信</td>
     <td>2024-02-01</td>
     <td>冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！</td>
     <td><a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a></td>
@@ -43,16 +70,10 @@
     <td>投行、行研、PEVC、机构销售、体制内金融简析</td>
   </tr>
   <tr>
-    <td>2024-02-05</td>
-    <td>不愧商汤，一面巨深入。。</td>
-    <td><a href="https://mp.weixin.qq.com/s/fbC_-5EKOqSRaHbPQd1UeQ">Link</a></td>
-    <td>3个商汤AIGC一面面试题</td>
-  </tr>
-  <tr>
-    <td>2024-02-04</td>
-    <td>超全总结！大模型算法岗面试真题来了！</td>
-    <td><a href="https://mp.weixin.qq.com/s/deFAz5edfZ37KcxKPAaTfw">Link</a></td>
-    <td>大模型面试题总结</td>
+    <td>2024-01-29</td>
+    <td>理工科博士“卷”进金融圈：每天工作十四五个小时</td>
+    <td><a href="https://mp.weixin.qq.com/s/1MNlsy87d46Fv4GsXXlG7Q">Link</a></td>
+    <td>985化学专业本硕博进入金融行研赛道</td>
   </tr>
 </table>
 
