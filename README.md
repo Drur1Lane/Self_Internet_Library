@@ -18,7 +18,6 @@
     <td>中国金融电子化集团简介</td>
   </tr>
   <tr>
-    <td>微信</td>
     <td>2024-01-10</td>
     <td>扒一扒金融行业不同岗位的优劣势</td>
     <td><a href="https://mp.weixin.qq.com/s/daILh9jkKmoBTtiQYCNL-Q">Link</a></td>
