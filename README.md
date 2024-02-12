@@ -62,10 +62,28 @@
     <th>简介</th>
   </tr>
   <tr>
-    <td rowspan="1">微信</td>
+    <td rowspan="4">微信</td>
     <td>2024-02-08</td>
     <td>知乎热议 | 怎么才能让导师意识到：让博士生做横向项目、写基金、做课件、报账等行为，有耽误其发论文以毕业的副作用？</td>
     <td><a href="https://mp.weixin.qq.com/s/FaGExSLmR-OFAzHYT9NorA">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-01-29</td>
+    <td>读博士的经济收益分析</td>
+    <td><a href="https://mp.weixin.qq.com/s/4W-evllbWugww4t7EYNr9A">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-01-28</td>
+    <td>大学生回炉读职校，寻觅旷野还是轨道？</td>
+    <td><a href="https://mp.weixin.qq.com/s/XFo5H63rM9HlcN6S2VTnDw">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-01-25</td>
+    <td>陈晓萍：一个扭曲的科研评价体系可以伤害一门重要学科？--- 谈谈UTD24 对于中国管理学发展造成的恶果</td>
+    <td><a href="https://mp.weixin.qq.com/s/4U0T6hI4n8448YLRia4bqA">Link</a></td>
     <td></td>
   </tr>
   <tr>
