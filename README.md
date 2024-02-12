@@ -5,7 +5,7 @@
 |来源|时间|题目|链接|简介|
 |-|-|-|-|-|
 | 微信 | 2024-02-01 | 冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！ | <a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a> | 中国金融电子化集团简介 |
-| 微信 | 2024-01-10 | 扒一扒金融行业不同岗位的优劣势 | <a href="https://mp.weixin.qq.com/s/daILh9jkKmoBTtiQYCNL-Q">Link</a> | 投行、行研、PEVC、机构销售、体制内金融简析 |
+| ： | 2024-01-10 | 扒一扒金融行业不同岗位的优劣势 | <a href="https://mp.weixin.qq.com/s/daILh9jkKmoBTtiQYCNL-Q">Link</a> | 投行、行研、PEVC、机构销售、体制内金融简析 |
 |  |  |  | <a href="">Link</a> |  |
 |  |  |  | <a href="">Link</a> |  |
 |  |  |  | <a href="">Link</a> |  |
