@@ -2,10 +2,30 @@
 希望自己能随时记得往这里填点东西。
 
 # 找工作
-|来源|时间|题目|链接|简介|
-|-|-|-|-|-|
-| 微信 | 2024-02-01 | 冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！ | <a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a> | 中国金融电子化集团简介 |
-| ： | 2024-01-10 | 扒一扒金融行业不同岗位的优劣势 | <a href="https://mp.weixin.qq.com/s/daILh9jkKmoBTtiQYCNL-Q">Link</a> | 投行、行研、PEVC、机构销售、体制内金融简析 |
+<table>
+  <tr>
+    <th rowspan="2">来源</th>
+    <th>时间</th>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>微信</td>
+    <td>2024-02-01</td>
+    <td>冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！</td>
+    <td><a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a></td>
+    <td>中国金融电子化集团简介</td>
+  </tr>
+  <tr>
+    <td>微信</td>
+    <td>2024-01-10</td>
+    <td>扒一扒金融行业不同岗位的优劣势</td>
+    <td><a href="https://mp.weixin.qq.com/s/daILh9jkKmoBTtiQYCNL-Q">Link</a></td>
+    <td>投行、行研、PEVC、机构销售、体制内金融简析</td>
+  </tr>
+</table>
+
 |  |  |  | <a href="">Link</a> |  |
 |  |  |  | <a href="">Link</a> |  |
 |  |  |  | <a href="">Link</a> |  |
