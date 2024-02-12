@@ -30,7 +30,7 @@
     <th>简介</th>
   </tr>
   <tr>
-    <td rowspan="3">微信</td>
+    <td rowspan="4">微信</td>
     <td>2024-02-01</td>
     <td>冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！</td>
     <td><a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a></td>
@@ -47,6 +47,12 @@
     <td>不愧商汤，一面巨深入。。</td>
     <td><a href="https://mp.weixin.qq.com/s/fbC_-5EKOqSRaHbPQd1UeQ">Link</a></td>
     <td>3个商汤AIGC一面面试题</td>
+  </tr>
+  <tr>
+    <td>2024-02-04</td>
+    <td>超全总结！大模型算法岗面试真题来了！</td>
+    <td><a href="https://mp.weixin.qq.com/s/deFAz5edfZ37KcxKPAaTfw">Link</a></td>
+    <td>大模型面试题总结</td>
   </tr>
 </table>
 
