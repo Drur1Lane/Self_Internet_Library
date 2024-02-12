@@ -52,18 +52,22 @@
 
 
 # 对博士生涯 & 世界的反思
-|来源|时间|题目|链接|简介|
-|-|-|-|-|-|
-| 微信 | 2024-01-25 | 一位北大博导对博士生教育的感受：只能描述、无能为力 | <a href="https://mp.weixin.qq.com/s/iTOTlSNXlLwOOX9K_t_XfQ">Link</a> | ①知识匮乏，论文深度不足；②导师太忙，被评价体系压的太功利；③公共知识分子、“万事通”太多，学术娱乐化；④电脑发达，论文不是从思考现实、而是从框架出发寻找材料 |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
-|  |  |  | <a href="">Link</a> |  |
+<table>
+  <tr>
+    <th>来源</th>
+    <th>时间</th>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td rowspan="1">微信</td>
+    <td>2024-02-08</td>
+    <td>知乎热议 | 怎么才能让导师意识到：让博士生做横向项目、写基金、做课件、报账等行为，有耽误其发论文以毕业的副作用？</td>
+    <td><a href="https://mp.weixin.qq.com/s/FaGExSLmR-OFAzHYT9NorA">Link</a></td>
+    <td></td>
+  </tr>
+</table>
 
 
 # 科研指引
