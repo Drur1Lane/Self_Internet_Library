@@ -4,14 +4,14 @@
 # 找工作
 <table>
   <tr>
-    <th rowspan="2">来源</th>
+    <th>来源</th>
     <th>时间</th>
     <th>题目</th>
     <th>链接</th>
     <th>简介</th>
   </tr>
   <tr>
-    <td>微信</td>
+    <td rowspan="2">微信</td>
     <td>2024-02-01</td>
     <td>冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！</td>
     <td><a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a></td>
