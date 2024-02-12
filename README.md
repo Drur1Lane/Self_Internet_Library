@@ -30,7 +30,7 @@
     <th>简介</th>
   </tr>
   <tr>
-    <td rowspan="2">微信</td>
+    <td rowspan="3">微信</td>
     <td>2024-02-01</td>
     <td>冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！</td>
     <td><a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a></td>
