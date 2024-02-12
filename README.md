@@ -97,11 +97,12 @@
 </table>
 
 
-# 科研指引
+# 计量
 |来源|时间|题目|链接|简介|
 |-|-|-|-|-|
 | 微信-经管世界 | 2023-10-15 | 实证分析三步走：数据、模型还有结果检验 | <a href="https://mp.weixin.qq.com/s/fdm8TSduGU_9m6zxQOQ6yg">Link</a> | 实证分析简要手册 |
-| 微信-经管世界 | 2023-11-12 | JPE主编告诫: 实证研究中最重要的三点都搞不清楚就不要想什么TOP5 | <a href="https://mp.weixin.qq.com/s/SrzrJpr7sSwIqGyP2fwe-Q">Link</a> |  |
+| 微信-计量经济圈 | 2023-11-12 | JPE主编告诫: 实证研究中最重要的三点都搞不清楚就不要想什么TOP5 | <a href="https://mp.weixin.qq.com/s/SrzrJpr7sSwIqGyP2fwe-Q">Link</a> |  |
+| Book |  | Introduction to Causal Inference from a Machine Learning Perspective | <a href="https://www.bradyneal.com/causal-inference-course">Link</a> |  |
 
 
 # B站
@@ -141,8 +142,3 @@
 5. 【知乎周星星——NLP系列之文本分类（一）：数据增强(EDA+对抗训练)/数据去噪/类别不平衡/半监督学习UDA/模型轻量化】https://zhuanlan.zhihu.com/p/339894411
 6. 【AugGPT: Leveraging ChatGPT for Text Data Augmentation】https://arxiv.org/abs/2302.13007
 7. 
-
-
-# 因果推断（Causal Inference）
-1. 【Introduction to Causal Inference from a Machine Learning Perspective】https://www.bradyneal.com/causal-inference-course
-2. 
