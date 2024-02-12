@@ -101,6 +101,7 @@
 |来源|时间|题目|链接|简介|
 |-|-|-|-|-|
 | 微信-经管世界 | 2023-10-15 | 实证分析三步走：数据、模型还有结果检验 | <a href="https://mp.weixin.qq.com/s/fdm8TSduGU_9m6zxQOQ6yg">Link</a> | 实证分析简要手册 |
+| 微信-经管世界 | 2023-11-12 | JPE主编告诫: 实证研究中最重要的三点都搞不清楚就不要想什么TOP5 | <a href="https://mp.weixin.qq.com/s/SrzrJpr7sSwIqGyP2fwe-Q">Link</a> |  |
 
 
 # B站
