@@ -196,6 +196,21 @@
 </table>
 
 
+# 机器学习
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>Deep Learning Paper Implementations</td>
+    <td><a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">Link</a></td>
+    <td><strong>主流深度学习论文的代码复现</strong></td>
+  </tr>
+</table>
+
+
 # 深度学习炼丹法
 1. 【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks】https://oldpan.me/archives/how-to-use-tricks-to-train-network
 2. 【学习率选择：How Do You Find A Good Learning Rate】https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html
