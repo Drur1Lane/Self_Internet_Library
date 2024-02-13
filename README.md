@@ -103,10 +103,16 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="1">B站</td>
+    <td rowspan="2">B站</td>
     <td></td>
     <td>一口气搞清避税天堂的资本游戏</td>
     <td><a href="https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>刘纪鹏被封前精彩吐槽！股市问题到底在哪？</td>
+    <td><a href="https://www.bilibili.com/video/BV12V41197PM/?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a></td>
     <td></td>
   </tr>
 </table>
