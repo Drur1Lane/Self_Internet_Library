@@ -170,25 +170,21 @@
 # 运筹
 <table>
   <tr>
-    <th>时间</th>
     <th>题目</th>
     <th>链接</th>
     <th>简介</th>
   </tr>
   <tr>
-    <td>2023-12-10</td>
     <td>体系化学习运筹学基础算法的实践和总结</td>
     <td><a href="https://mp.weixin.qq.com/s/NnxoyYk2a7tQOdkktElaXg">Link</a></td>
     <td>运筹学算法简要整理</td>
   </tr>
   <tr>
-    <td></td>
     <td>Awesome Operations Analytics</td>
     <td><a href="https://github.com/kevinkevin556/awesome-operations-analytics">Link</a></td>
     <td>运筹学资源整理</td>
   </tr>
   <tr>
-    <td></td>
     <td>Awesome Operational Research</td>
     <td><a href="https://github.com/joaojunior/awesome-operational_research">Link</a></td>
     <td>运筹学资源整理</td>
