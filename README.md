@@ -204,6 +204,11 @@
     <td><a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">Link</a></td>
     <td><strong>主流深度学习论文的代码复现：<a href="https://nn.labml.ai/">直达链接</a></strong></td>
   </tr>
+  <tr>
+    <td>机器学习模型的可解释性（Interpretability）与可理解性（Explainability）：二者有何不同？</td>
+    <td><a href="https://mp.weixin.qq.com/s/95SRMbX-BcglSbeHLWRuPg">Link</a></td>
+    <td><strong>Interpretability：理解模型的整体功能；Explainability：探究个别预测的具体情况</strong></td>
+  </tr>
 </table>
 
 
