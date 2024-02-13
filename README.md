@@ -59,6 +59,12 @@
     <td><a href="https://mp.weixin.qq.com/s/1MNlsy87d46Fv4GsXXlG7Q">Link</a></td>
     <td>985化学专业本硕博进入金融行研赛道</td>
   </tr>
+  <tr>
+    <td>2024-01-16</td>
+    <td>Quant苦学手册 | 金融篇</td>
+    <td><a href="https://mp.weixin.qq.com/s/bOctLX3PauUEK_SH4jcrxQ">Link</a></td>
+    <td> **量化学习经验——from微信：枫豆沙LifeStudy** </td>
+  </tr>
 </table>
 
 
