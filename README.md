@@ -202,7 +202,7 @@
   <tr>
     <td>Deep Learning Paper Implementations</td>
     <td><a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">Link</a></td>
-    <td><strong>主流深度学习论文的代码复现：<a href+"https://nn.labml.ai/">直达链接</a></strong></td>
+    <td><strong>主流深度学习论文的代码复现：<a href="https://nn.labml.ai/">直达链接</a></strong></td>
   </tr>
 </table>
 
