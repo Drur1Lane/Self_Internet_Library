@@ -184,11 +184,6 @@
 </table>
 
 
-# Github
-1. 【Congrui Yin：科研工具链】https://github.com/JerryYin777/Cr_Research_Toolchain
-2. 
-
-
 # 深度学习炼丹法
 1. 【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks】https://oldpan.me/archives/how-to-use-tricks-to-train-network
 2. 【学习率选择：How Do You Find A Good Learning Rate】https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html
