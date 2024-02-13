@@ -213,6 +213,21 @@
 </table>
 
 
+# Coding
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>数据科学常用Python包总结？</td>
+    <td><a href="https://www.bilibili.com/video/BV1xe411b7Lp/?buvid=XUD6CDDDB45ECA48467CCAD95A8C97AB0F494&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=xhKOq3lNbDlI5XITl%2FI8jA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8483dca4-9269-4012-8740-9cac22a460c6&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1705156917&unique_k=fWaYyZT&up_id=429580830&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td><</td>
+  </tr>
+</table>
+
+
 # 深度学习炼丹法
 1. 【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks】https://oldpan.me/archives/how-to-use-tricks-to-train-network
 2. 【学习率选择：How Do You Find A Good Learning Rate】https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html
