@@ -5,28 +5,29 @@
 # 一些有意思的
 <table>
   <tr>
-    <th>时间</th>
     <th>题目</th>
     <th>链接</th>
     <th>简介</th>
   </tr>
   <tr>
-    <td>2024-02-07</td>
     <td>三分钟教你学会掼蛋</td>
     <td><a href="https://mp.weixin.qq.com/s/WqRVkqxwiqf5EZksRvKZeQ">Link</a></td>
     <td>掼蛋规则简介</td>
   </tr>
   <tr>
-    <td>2024-01-10</td>
     <td>将Ubuntu作为主力科研机的心得</td>
     <td><a href="https://mp.weixin.qq.com/s/2CU-ngehSrUnC2fbkPhnuA">Link</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>2024-01-15</td>
     <td>计算机中的「null」怎么读？</td>
     <td><a href="https://www.zhihu.com/question/549740924/answer/3363077599?utm_medium=social&utm_oi=655045255469207552&utm_psn=1732462571280580608&utm_source=wechat_session&s_r=0">Link</a></td>
     <td>计算机中部分英文单词读音</td>
+  </tr>
+  <tr>
+    <td>Linux Command</td>
+    <td><a href="https://github.com/jaywcjlove/linux-command">Link</a></td>
+    <td>Linux命令速查手册</td>
   </tr>
 </table>
 
