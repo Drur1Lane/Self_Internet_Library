@@ -181,6 +181,18 @@
     <td><a href="https://mp.weixin.qq.com/s/NnxoyYk2a7tQOdkktElaXg">Link</a></td>
     <td>运筹学算法简要整理</td>
   </tr>
+  <tr>
+    <td></td>
+    <td>Awesome Operations Analytics</td>
+    <td><a href="https://github.com/kevinkevin556/awesome-operations-analytics">Link</a></td>
+    <td>运筹学资源整理</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Awesome Operational Research</td>
+    <td><a href="https://github.com/joaojunior/awesome-operational_research">Link</a></td>
+    <td>运筹学资源整理</td>
+  </tr>
 </table>
 
 
