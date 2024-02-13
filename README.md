@@ -63,7 +63,7 @@
     <td>2024-01-16</td>
     <td>Quant苦学手册 | 金融篇</td>
     <td><a href="https://mp.weixin.qq.com/s/bOctLX3PauUEK_SH4jcrxQ">Link</a></td>
-    <td> **量化学习经验——from微信：枫豆沙LifeStudy** </td>
+    <td><strong>量化学习经验——from微信：枫豆沙LifeStudy</strong></td>
   </tr>
 </table>
 
