@@ -42,7 +42,7 @@
     <th>简介</th>
   </tr>
   <tr>
-    <td rowspan="4">微信</td>
+    <td rowspan="5">微信</td>
     <td>2024-02-01</td>
     <td>冷门但待遇超好的央国企，16:30下班，八险二金，起薪15W！</td>
     <td><a href="https://mp.weixin.qq.com/s/50JmAu81KKxvemvY1o1Etw">Link</a></td>
@@ -65,6 +65,12 @@
     <td>Quant苦学手册 | 金融篇</td>
     <td><a href="https://mp.weixin.qq.com/s/bOctLX3PauUEK_SH4jcrxQ">Link</a></td>
     <td><strong>量化学习经验——from微信：枫豆沙LifeStudy</strong></td>
+  </tr>
+  <tr>
+    <td>2024-02-14</td>
+    <td>Quant苦学手册 | 金融篇</td>
+    <td><a href="https://mp.weixin.qq.com/s/evlnil3AbEKE_U5k9GCxZw">Link</a></td>
+    <td><strong>2024年咨询圈最新现状，PwC、麦肯锡都出事了？</strong></td>
   </tr>
 </table>
 
