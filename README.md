@@ -68,9 +68,9 @@
   </tr>
   <tr>
     <td>2024-02-14</td>
-    <td>Quant苦学手册 | 金融篇</td>
+    <td>2024年咨询圈最新现状，PwC、麦肯锡都出事了？</td>
     <td><a href="https://mp.weixin.qq.com/s/evlnil3AbEKE_U5k9GCxZw">Link</a></td>
-    <td><strong>2024年咨询圈最新现状，PwC、麦肯锡都出事了？</strong></td>
+    <td></td>
   </tr>
 </table>
 
