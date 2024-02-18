@@ -222,6 +222,31 @@
     <td><a href="https://mp.weixin.qq.com/s/95SRMbX-BcglSbeHLWRuPg">Link</a></td>
     <td><strong>Interpretability：理解模型的整体功能；Explainability：探究个别预测的具体情况</strong></td>
   </tr>
+  <tr>
+    <td>Oldpan个人博客：关于训练神经网路的诸多技巧Tricks</td>
+    <td><a href="https://oldpan.me/archives/how-to-use-tricks-to-train-network">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>学习率选择：How Do You Find A Good Learning Rate</td>
+    <td><a href="https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>学习率选择：Cyclical Learning Rates for Training Neural Networks</td>
+    <td><a href="https://arxiv.org/abs/1506.01186">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Oldpan个人博客：警惕！损失Loss为Nan或者超级大的原因</td>
+    <td><a href="https://oldpan.me/archives/careful-train-loss-nan-inf">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Deep Learning Tuning Playbook</td>
+    <td><a href="https://github.com/google-research/tuning_playbook">Link</a></td>
+    <td></td>
+  </tr>
 </table>
 
 
@@ -240,21 +265,27 @@
 </table>
 
 
-# 深度学习炼丹法
-1. 【Oldpan个人博客：关于训练神经网路的诸多技巧Tricks】https://oldpan.me/archives/how-to-use-tricks-to-train-network
-2. 【学习率选择：How Do You Find A Good Learning Rate】https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html
-3. 【学习率选择：Cyclical Learning Rates for Training Neural Networks】https://arxiv.org/abs/1506.01186
-4. 【Oldpan个人博客：警惕！损失Loss为Nan或者超级大的原因】https://oldpan.me/archives/careful-train-loss-nan-inf
-5. 【Deep Learning Tuning Playbook】https://github.com/google-research/tuning_playbook
-6. 
-
-
 # Natural Language Processing
 ## 文本增强（Text Data Augmentation）
-1. 【微信机器之心——文本增强技术在金融领域的应用实践】https://mp.weixin.qq.com/s/-F33VLhZAlCra3sjeRF50w
-2. 【EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks】https://arxiv.org/abs/1901.11196
-3. 【AEDA: An Easier Data Augmentation Technique for Text Classification】https://arxiv.org/abs/2108.13230
-4. 【知乎JayJay——标注样本少怎么办？「文本增强+半监督学习」总结（从PseudoLabel到UDA/FixMatch）】https://zhuanlan.zhihu.com/p/146777068
-5. 【知乎周星星——NLP系列之文本分类（一）：数据增强(EDA+对抗训练)/数据去噪/类别不平衡/半监督学习UDA/模型轻量化】https://zhuanlan.zhihu.com/p/339894411
-6. 【AugGPT: Leveraging ChatGPT for Text Data Augmentation】https://arxiv.org/abs/2302.13007
-7. 
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>文本增强技术在金融领域的应用实践</td>
+    <td><a href="https://mp.weixin.qq.com/s/-F33VLhZAlCra3sjeRF50w">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>标注样本少怎么办？「文本增强+半监督学习」总结（从PseudoLabel到UDA/FixMatch）</td>
+    <td><a href="https://zhuanlan.zhihu.com/p/146777068">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NLP系列之文本分类（一）：数据增强(EDA+对抗训练)/数据去噪/类别不平衡/半监督学习UDA/模型轻量化</td>
+    <td><a href="https://zhuanlan.zhihu.com/p/339894411">Link</a></td>
+    <td></td>
+  </tr>
+</table>
