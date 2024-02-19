@@ -122,6 +122,31 @@
     <td></td>
   </tr>
   <tr>
+    <td rowspan="2">B站</td>
+    <td>2024-01-21</td>
+    <td>一口气搞清避税天堂的资本游戏</td>
+    <td><a href="https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-01-25</td>
+    <td>我TM的真是服了我们学校的脑瘫校规了</td>
+    <td><a href="https://www.bilibili.com/video/BV18K4y1i7FS/?buvid=XUD6CDDDB45ECA48467CCAD95A8C97AB0F494&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=xhKOq3lNbDlI5XITl%2FI8jA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=035cf829-1098-4969-b3ba-d1b01cd6c164&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1706505786&unique_k=gZxfTZu&up_id=1443131643&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+</table>
+
+
+# 金融
+<table>
+  <tr>
+    <th>来源</th>
+    <th>时间</th>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
     <td rowspan="3">B站</td>
     <td>2024-01-21</td>
     <td>一口气搞清避税天堂的资本游戏</td>
@@ -135,13 +160,12 @@
     <td></td>
   </tr>
   <tr>
-    <td>2024-01-25</td>
-    <td>我TM的真是服了我们学校的脑瘫校规了</td>
-    <td><a href="https://www.bilibili.com/video/BV18K4y1i7FS/?buvid=XUD6CDDDB45ECA48467CCAD95A8C97AB0F494&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=xhKOq3lNbDlI5XITl%2FI8jA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=035cf829-1098-4969-b3ba-d1b01cd6c164&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1706505786&unique_k=gZxfTZu&up_id=1443131643&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td>2024-01-01</td>
+    <td>【硬核】一口气了解美联储 | 全球权力最大的金融机构</td>
+    <td><a href="https://www.bilibili.com/video/BV1uC4y1q79G/?spm_id_from=333.1007.tianma.10-4-38.click&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
     <td></td>
   </tr>
 </table>
-
 
 # 计量
 |来源|时间|题目|链接|简介|
