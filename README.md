@@ -147,10 +147,10 @@
     <th>简介</th>
   </tr>
   <tr>
-    <td rowspan="3">B站</td>
-    <td>2024-01-21</td>
-    <td>一口气搞清避税天堂的资本游戏</td>
-    <td><a href="https://www.bilibili.com/video/BV1ne411n7Vc?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a></td>
+    <td rowspan="5">B站</td>
+    <td>2022-06-11</td>
+    <td>【干货】关于利率，你需要知道的那些事儿</td>
+    <td><a href="https://www.bilibili.com/video/BV1S3411g7Gh/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
     <td></td>
   </tr>
   <tr>
@@ -163,6 +163,18 @@
     <td>2024-01-01</td>
     <td>【硬核】一口气了解美联储 | 全球权力最大的金融机构</td>
     <td><a href="https://www.bilibili.com/video/BV1uC4y1q79G/?spm_id_from=333.1007.tianma.10-4-38.click&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023-01-29</td>
+    <td>【硬核】一口气了解通货膨胀</td>
+    <td><a href="https://www.bilibili.com/video/BV1KP4y1678m/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023-06-06</td>
+    <td>【硬核】一口气了解国债，这么一直借下去真的可以么？</td>
+    <td><a href="https://www.bilibili.com/video/BV1LW4y1Q75v/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
     <td></td>
   </tr>
 </table>
