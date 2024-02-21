@@ -72,6 +72,13 @@
     <td><a href="https://mp.weixin.qq.com/s/evlnil3AbEKE_U5k9GCxZw">Link</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td rowspan="1">B站</td>
+    <td>2024-01-27</td>
+    <td>华为离职后，才敢公开的华为工作的一切：遥遥领先、应聘、工资、狼性文化、绩效、离职跳槽……</td>
+    <td><a href="https://www.bilibili.com/video/BV1Bc411v7ok/?vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
 </table>
 
 
