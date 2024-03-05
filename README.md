@@ -92,7 +92,7 @@
     <th>简介</th>
   </tr>
   <tr>
-    <td rowspan="6">微信</td>
+    <td rowspan="7">微信</td>
     <td>2024-02-08</td>
     <td>知乎热议 | 怎么才能让导师意识到：让博士生做横向项目、写基金、做课件、报账等行为，有耽误其发论文以毕业的副作用？</td>
     <td><a href="https://mp.weixin.qq.com/s/FaGExSLmR-OFAzHYT9NorA">Link</a></td>
@@ -126,6 +126,12 @@
     <td>2024-02-16</td>
     <td>离开学术界，他没有后悔，还写了本书教人如何体面离开。</td>
     <td><a href="https://mp.weixin.qq.com/s/fP5tz3ZTsu5q1zfNheDYig">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-02-21</td>
+    <td>中国生育成本报告2024版</td>
+    <td><a href="https://mp.weixin.qq.com/s/Gx4DsQq-kiyJzlPA3s2D0g">Link</a></td>
     <td></td>
   </tr>
   <tr>
