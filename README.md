@@ -32,6 +32,21 @@
 </table>
 
 
+# Computer Science
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>【计算机科学速成课】</td>
+    <td><a href="https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.337.search-card.all.click">Link</a></td>
+    <td></td>
+  </tr>
+</table>
+
+
 # 找工作
 <table>
   <tr>
