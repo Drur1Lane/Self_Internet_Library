@@ -47,6 +47,168 @@
 </table>
 
 
+# 金融
+<table>
+  <tr>
+    <th>来源</th>
+    <th>时间</th>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td rowspan="5">B站</td>
+    <td>2022-06-11</td>
+    <td>【干货】关于利率，你需要知道的那些事儿</td>
+    <td><a href="https://www.bilibili.com/video/BV1S3411g7Gh/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-01-13</td>
+    <td>刘纪鹏被封前精彩吐槽！股市问题到底在哪？</td>
+    <td><a href="https://www.bilibili.com/video/BV12V41197PM/?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024-01-01</td>
+    <td>【硬核】一口气了解美联储 | 全球权力最大的金融机构</td>
+    <td><a href="https://www.bilibili.com/video/BV1uC4y1q79G/?spm_id_from=333.1007.tianma.10-4-38.click&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023-01-29</td>
+    <td>【硬核】一口气了解通货膨胀</td>
+    <td><a href="https://www.bilibili.com/video/BV1KP4y1678m/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023-06-06</td>
+    <td>【硬核】一口气了解国债，这么一直借下去真的可以么？</td>
+    <td><a href="https://www.bilibili.com/video/BV1LW4y1Q75v/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+</table>
+
+
+# 计量
+|来源|时间|题目|链接|简介|
+|-|-|-|-|-|
+| 微信-经管世界 | 2023-10-15 | 实证分析三步走：数据、模型还有结果检验 | <a href="https://mp.weixin.qq.com/s/fdm8TSduGU_9m6zxQOQ6yg">Link</a> | 实证分析简要手册 |
+| 微信-计量经济圈 | 2023-11-12 | JPE主编告诫: 实证研究中最重要的三点都搞不清楚就不要想什么TOP5 | <a href="https://mp.weixin.qq.com/s/SrzrJpr7sSwIqGyP2fwe-Q">Link</a> |  |
+| Book |  | Introduction to Causal Inference from a Machine Learning Perspective | <a href="https://www.bradyneal.com/causal-inference-course">Link</a> |  |
+
+
+# 运筹
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>体系化学习运筹学基础算法的实践和总结</td>
+    <td><a href="https://mp.weixin.qq.com/s/NnxoyYk2a7tQOdkktElaXg">Link</a></td>
+    <td>运筹学算法简要整理</td>
+  </tr>
+  <tr>
+    <td>Awesome Operations Analytics</td>
+    <td><a href="https://github.com/kevinkevin556/awesome-operations-analytics">Link</a></td>
+    <td>运筹学资源整理</td>
+  </tr>
+  <tr>
+    <td>Awesome Operational Research</td>
+    <td><a href="https://github.com/joaojunior/awesome-operational_research">Link</a></td>
+    <td>运筹学资源整理</td>
+  </tr>
+</table>
+
+
+# 机器学习
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>Deep Learning Paper Implementations</td>
+    <td><a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">Link</a></td>
+    <td><strong>主流深度学习论文的代码复现：<a href="https://nn.labml.ai/">直达链接</a></strong></td>
+  </tr>
+  <tr>
+    <td>机器学习模型的可解释性（Interpretability）与可理解性（Explainability）：二者有何不同？</td>
+    <td><a href="https://mp.weixin.qq.com/s/95SRMbX-BcglSbeHLWRuPg">Link</a></td>
+    <td><strong>Interpretability：理解模型的整体功能；Explainability：探究个别预测的具体情况</strong></td>
+  </tr>
+  <tr>
+    <td>Oldpan个人博客：关于训练神经网路的诸多技巧Tricks</td>
+    <td><a href="https://oldpan.me/archives/how-to-use-tricks-to-train-network">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>学习率选择：How Do You Find A Good Learning Rate</td>
+    <td><a href="https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>学习率选择：Cyclical Learning Rates for Training Neural Networks</td>
+    <td><a href="https://arxiv.org/abs/1506.01186">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Oldpan个人博客：警惕！损失Loss为Nan或者超级大的原因</td>
+    <td><a href="https://oldpan.me/archives/careful-train-loss-nan-inf">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Deep Learning Tuning Playbook</td>
+    <td><a href="https://github.com/google-research/tuning_playbook">Link</a></td>
+    <td></td>
+  </tr>
+</table>
+
+
+# Coding
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>数据科学常用Python包总结？</td>
+    <td><a href="https://www.bilibili.com/video/BV1xe411b7Lp/?buvid=XUD6CDDDB45ECA48467CCAD95A8C97AB0F494&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=xhKOq3lNbDlI5XITl%2FI8jA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8483dca4-9269-4012-8740-9cac22a460c6&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1705156917&unique_k=fWaYyZT&up_id=429580830&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
+    <td></td>
+  </tr>
+</table>
+
+
+# Natural Language Processing
+## 文本增强（Text Data Augmentation）
+<table>
+  <tr>
+    <th>题目</th>
+    <th>链接</th>
+    <th>简介</th>
+  </tr>
+  <tr>
+    <td>文本增强技术在金融领域的应用实践</td>
+    <td><a href="https://mp.weixin.qq.com/s/-F33VLhZAlCra3sjeRF50w">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>标注样本少怎么办？「文本增强+半监督学习」总结（从PseudoLabel到UDA/FixMatch）</td>
+    <td><a href="https://zhuanlan.zhihu.com/p/146777068">Link</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NLP系列之文本分类（一）：数据增强(EDA+对抗训练)/数据去噪/类别不平衡/半监督学习UDA/模型轻量化</td>
+    <td><a href="https://zhuanlan.zhihu.com/p/339894411">Link</a></td>
+    <td></td>
+  </tr>
+</table>
+
+
 # 找工作
 <table>
   <tr>
@@ -165,56 +327,6 @@
 </table>
 
 
-# 金融
-<table>
-  <tr>
-    <th>来源</th>
-    <th>时间</th>
-    <th>题目</th>
-    <th>链接</th>
-    <th>简介</th>
-  </tr>
-  <tr>
-    <td rowspan="5">B站</td>
-    <td>2022-06-11</td>
-    <td>【干货】关于利率，你需要知道的那些事儿</td>
-    <td><a href="https://www.bilibili.com/video/BV1S3411g7Gh/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2024-01-13</td>
-    <td>刘纪鹏被封前精彩吐槽！股市问题到底在哪？</td>
-    <td><a href="https://www.bilibili.com/video/BV12V41197PM/?vd_source=212a48f118f484bfff9c726b8ee904f2">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2024-01-01</td>
-    <td>【硬核】一口气了解美联储 | 全球权力最大的金融机构</td>
-    <td><a href="https://www.bilibili.com/video/BV1uC4y1q79G/?spm_id_from=333.1007.tianma.10-4-38.click&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2023-01-29</td>
-    <td>【硬核】一口气了解通货膨胀</td>
-    <td><a href="https://www.bilibili.com/video/BV1KP4y1678m/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2023-06-06</td>
-    <td>【硬核】一口气了解国债，这么一直借下去真的可以么？</td>
-    <td><a href="https://www.bilibili.com/video/BV1LW4y1Q75v/?spm_id_from=333.788&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
-    <td></td>
-  </tr>
-</table>
-
-# 计量
-|来源|时间|题目|链接|简介|
-|-|-|-|-|-|
-| 微信-经管世界 | 2023-10-15 | 实证分析三步走：数据、模型还有结果检验 | <a href="https://mp.weixin.qq.com/s/fdm8TSduGU_9m6zxQOQ6yg">Link</a> | 实证分析简要手册 |
-| 微信-计量经济圈 | 2023-11-12 | JPE主编告诫: 实证研究中最重要的三点都搞不清楚就不要想什么TOP5 | <a href="https://mp.weixin.qq.com/s/SrzrJpr7sSwIqGyP2fwe-Q">Link</a> |  |
-| Book |  | Introduction to Causal Inference from a Machine Learning Perspective | <a href="https://www.bradyneal.com/causal-inference-course">Link</a> |  |
-
-
 # 大模型面试题
 <table>
   <tr>
@@ -240,116 +352,5 @@
     <td>面了 5 家知名企业的NLP算法岗(大模型方向)，被问麻了。。。。。</td>
     <td><a href="https://mp.weixin.qq.com/s/tCkFJhj28T-kdV95IlT1_Q">Link</a></td>
     <td>题目集合</td>
-  </tr>
-</table>
-
-
-# 运筹
-<table>
-  <tr>
-    <th>题目</th>
-    <th>链接</th>
-    <th>简介</th>
-  </tr>
-  <tr>
-    <td>体系化学习运筹学基础算法的实践和总结</td>
-    <td><a href="https://mp.weixin.qq.com/s/NnxoyYk2a7tQOdkktElaXg">Link</a></td>
-    <td>运筹学算法简要整理</td>
-  </tr>
-  <tr>
-    <td>Awesome Operations Analytics</td>
-    <td><a href="https://github.com/kevinkevin556/awesome-operations-analytics">Link</a></td>
-    <td>运筹学资源整理</td>
-  </tr>
-  <tr>
-    <td>Awesome Operational Research</td>
-    <td><a href="https://github.com/joaojunior/awesome-operational_research">Link</a></td>
-    <td>运筹学资源整理</td>
-  </tr>
-</table>
-
-
-# 机器学习
-<table>
-  <tr>
-    <th>题目</th>
-    <th>链接</th>
-    <th>简介</th>
-  </tr>
-  <tr>
-    <td>Deep Learning Paper Implementations</td>
-    <td><a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">Link</a></td>
-    <td><strong>主流深度学习论文的代码复现：<a href="https://nn.labml.ai/">直达链接</a></strong></td>
-  </tr>
-  <tr>
-    <td>机器学习模型的可解释性（Interpretability）与可理解性（Explainability）：二者有何不同？</td>
-    <td><a href="https://mp.weixin.qq.com/s/95SRMbX-BcglSbeHLWRuPg">Link</a></td>
-    <td><strong>Interpretability：理解模型的整体功能；Explainability：探究个别预测的具体情况</strong></td>
-  </tr>
-  <tr>
-    <td>Oldpan个人博客：关于训练神经网路的诸多技巧Tricks</td>
-    <td><a href="https://oldpan.me/archives/how-to-use-tricks-to-train-network">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>学习率选择：How Do You Find A Good Learning Rate</td>
-    <td><a href="https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>学习率选择：Cyclical Learning Rates for Training Neural Networks</td>
-    <td><a href="https://arxiv.org/abs/1506.01186">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Oldpan个人博客：警惕！损失Loss为Nan或者超级大的原因</td>
-    <td><a href="https://oldpan.me/archives/careful-train-loss-nan-inf">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Deep Learning Tuning Playbook</td>
-    <td><a href="https://github.com/google-research/tuning_playbook">Link</a></td>
-    <td></td>
-  </tr>
-</table>
-
-
-# Coding
-<table>
-  <tr>
-    <th>题目</th>
-    <th>链接</th>
-    <th>简介</th>
-  </tr>
-  <tr>
-    <td>数据科学常用Python包总结？</td>
-    <td><a href="https://www.bilibili.com/video/BV1xe411b7Lp/?buvid=XUD6CDDDB45ECA48467CCAD95A8C97AB0F494&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=xhKOq3lNbDlI5XITl%2FI8jA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8483dca4-9269-4012-8740-9cac22a460c6&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1705156917&unique_k=fWaYyZT&up_id=429580830&vd_source=37b4202e7aa5f0ad62efbc6f007baf68">Link</a></td>
-    <td></td>
-  </tr>
-</table>
-
-
-# Natural Language Processing
-## 文本增强（Text Data Augmentation）
-<table>
-  <tr>
-    <th>题目</th>
-    <th>链接</th>
-    <th>简介</th>
-  </tr>
-  <tr>
-    <td>文本增强技术在金融领域的应用实践</td>
-    <td><a href="https://mp.weixin.qq.com/s/-F33VLhZAlCra3sjeRF50w">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>标注样本少怎么办？「文本增强+半监督学习」总结（从PseudoLabel到UDA/FixMatch）</td>
-    <td><a href="https://zhuanlan.zhihu.com/p/146777068">Link</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>NLP系列之文本分类（一）：数据增强(EDA+对抗训练)/数据去噪/类别不平衡/半监督学习UDA/模型轻量化</td>
-    <td><a href="https://zhuanlan.zhihu.com/p/339894411">Link</a></td>
-    <td></td>
   </tr>
 </table>
